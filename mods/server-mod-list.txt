@@ -1,7 +1,6 @@
 architectury-6.6.92-forge.jar
 astikorcarts-1.19.2-1.1.2.jar
 balm-forge-1.19.2-4.6.0.jar
-caelus-forge-1.19.2-3.0.0.6.jar
 cloth-config-8.3.134-forge.jar
 configured-2.1.1-1.19.2.jar
 CorgiLib-forge-1.19.2-1.0.0.34.jar
