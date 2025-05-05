@@ -25,6 +25,7 @@ smallships-forge-1.19.2-2.0.0-b1.3.1.jar
 sophisticatedbackpacks-1.19.2-3.20.2.1035.jar
 sophisticatedcore-1.19.2-0.6.4.730.jar
 takesapillage-1.0.3-1.19.2.jar
+TravelersTitles-1.19.2-Forge-3.1.2.jar
 TreeChop-1.19.2-forge-0.19.1.jar
 waystones-forge-1.19.2-11.4.2.jar
 YungsApi-1.19.2-Forge-3.8.10.jar
