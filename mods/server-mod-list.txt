@@ -13,7 +13,6 @@ fastboot-1.19.x-1.1.jar
 ferritecore-5.0.3-forge.jar
 geckolib-forge-1.19-3.1.40.jar
 gravestone-forge-1.19.2-1.0.24.jar
-guardvillagers-1.19.2-1.5.9.jar
 jei-1.19.2-forge-11.6.0.1019.jar
 journeymap-1.19.2-5.9.8-forge.jar
 leawind_third_person-v2.2.0-mc1.19-1.19.2-forge.jar
