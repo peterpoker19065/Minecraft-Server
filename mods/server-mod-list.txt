@@ -1,4 +1,3 @@
-AI-Improvements-1.19.2-0.5.2.jar
 architectury-6.6.92-forge.jar
 astikorcarts-1.19.2-1.1.2.jar
 balm-forge-1.19.2-4.6.0.jar
@@ -6,8 +5,6 @@ biomemusic-1.19.2-2.2.jar
 BOMD-Forge-1.19.2-1.0.6.jar
 caelus-forge-1.19.2-3.0.0.6.jar
 cloth-config-8.3.134-forge.jar
-Clumps-forge-1.19.2-9.0.0+14.jar
-combat_music-3.0.jar
 configured-2.1.1-1.19.2.jar
 CorgiLib-forge-1.19.2-1.0.0.34.jar
 cupboard-1.19.2-2.6.jar
@@ -24,14 +21,12 @@ guardvillagers-1.19.2-1.5.9.jar
 jei-1.19.2-forge-11.6.0.1019.jar
 journeymap-1.19.2-5.9.8-forge.jar
 leawind_third_person-v2.2.0-mc1.19-1.19.2-forge.jar
-modernfix-forge-5.18.1+mc1.19.2.jar
 mowziesmobs-1.6.3.jar
 OptiFine_1.19.2_HD_U_I2.jar
 projectvibrantjourneys-1.19.2-5.1.2.jar
 PuzzlesLib-v4.4.3-1.19.2-Forge.jar
 skin_changer-1.19-0.5.3.jar
 smallships-forge-1.19.2-2.0.0-b1.3.1.jar
-smoothchunk-1.19.2-3.5.jar
 spiderstpo-1.19.2-2.0.4.jar
 takesapillage-1.0.3-1.19.2.jar
 ToolBelt-1.19.2-1.19.7.jar
