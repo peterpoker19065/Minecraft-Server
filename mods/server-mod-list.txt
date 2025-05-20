@@ -21,6 +21,7 @@ guardvillagers-1.19.2-1.5.9.jar
 jei-1.19.2-forge-11.6.0.1019.jar
 journeymap-1.19.2-5.9.8-forge.jar
 leawind_third_person-v2.2.0-mc1.19-1.19.2-forge.jar
+MouseTweaks-forge-mc1.19-2.23.jar
 mowziesmobs-1.6.3.jar
 OptiFine_1.19.2_HD_U_I2.jar
 projectvibrantjourneys-1.19.2-5.1.2.jar
@@ -28,10 +29,12 @@ PuzzlesLib-v4.4.3-1.19.2-Forge.jar
 skin_changer-1.19-0.5.3.jar
 smallships-forge-1.19.2-2.0.0-b1.3.1.jar
 spiderstpo-1.19.2-2.0.4.jar
+StorageDrawers-1.19.2-11.4.1.jar
 takesapillage-1.0.3-1.19.2.jar
 ToolBelt-1.19.2-1.19.7.jar
 torchslabmod-1.19.2_v1.7.4.jar
 trade-cycling-forge-1.19.2-1.0.5.jar
+trashslot-forge-1.19.2-12.1.0.jar
 travelersbackpack-forge-1.19.2-8.2.41.jar
 TravelersTitles-1.19.2-Forge-3.1.2.jar
 TreeChop-1.19.2-forge-0.19.1.jar
