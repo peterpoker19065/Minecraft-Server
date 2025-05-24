@@ -1,6 +1,7 @@
 architectury-6.6.92-forge.jar
 astikorcarts-1.19.2-1.1.2.jar
 balm-forge-1.19.2-4.6.0.jar
+bettervillage-forge-1.19.2-3.2.0.jar
 biomemusic-1.19.2-2.2.jar
 BOMD-Forge-1.19.2-1.0.6.jar
 caelus-forge-1.19.2-3.0.0.6.jar
@@ -21,6 +22,7 @@ guardvillagers-1.19.2-1.5.9.jar
 jei-1.19.2-forge-11.6.0.1019.jar
 journeymap-1.19.2-5.9.8-forge.jar
 leawind_third_person-v2.2.0-mc1.19-1.19.2-forge.jar
+libraryferret-forge-1.19.2-4.0.0.jar
 MouseTweaks-forge-mc1.19-2.23.jar
 mowziesmobs-1.6.3.jar
 OptiFine_1.19.2_HD_U_I2.jar
