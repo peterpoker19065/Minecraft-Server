@@ -41,7 +41,6 @@ travelersbackpack-forge-1.19.2-8.2.41.jar
 TravelersTitles-1.19.2-Forge-3.1.2.jar
 TreeChop-1.19.2-forge-0.19.1.jar
 waystones-forge-1.19.2-11.4.2.jar
-worldedit-mod-7.2.12.jar
 YungsApi-1.19.2-Forge-3.8.10.jar
 YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar
 YungsBetterDungeons-1.19.2-Forge-3.2.2.jar
