@@ -23,6 +23,7 @@ jei-1.19.2-forge-11.6.0.1019.jar
 journeymap-1.19.2-5.9.8-forge.jar
 leawind_third_person-v2.2.0-mc1.19-1.19.2-forge.jar
 libraryferret-forge-1.19.2-4.0.0.jar
+More Villager Trades 1.0.0 - 1.19.2.jar
 MouseTweaks-forge-mc1.19-2.23.jar
 mowziesmobs-1.6.3.jar
 OptiFine_1.19.2_HD_U_I2.jar
